@@ -1,0 +1,157 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dj-thumbnails\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/dj-thumbnails\n"
+"POT-Creation-Date: 2013-01-11 19:11:18+00:00\n"
+"PO-Revision-Date: 2013-01-11 20:15+0100\n"
+"Last-Translator: Derk-Jan Karrenbeld <derk-jan@karrenbeld.info>\n"
+"Language-Team: Derk-Jan Karrenbeld <derk-jan@karrenbeld.info>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: dj-thumbnails.php:127
+msgid "Use as thumbnail image"
+msgstr "Gebruik als thumnail afbeelding"
+
+#: dj-thumbnails.php:444 dj-thumbnails.php:445 dj-thumbnails.php:511
+msgid "Fallback Thumbnails"
+msgstr "Terugval Thumbnails"
+
+#: dj-thumbnails.php:483
+msgctxt "thumbnail image"
+msgid "Too small!"
+msgstr "Te klein!"
+
+#: dj-thumbnails.php:489
+msgid "Thumbnail missing!"
+msgstr "Thumbnail mist!"
+
+#: dj-thumbnails.php:502
+msgid "%dx%d or bigger"
+msgstr "%dx%d of groter"
+
+#: dj-thumbnails.php:521
+msgid "Thumbnail for %s"
+msgstr "Thumbnail voor %s"
+
+#: dj-thumbnails.php:527
+msgid "Thumbnail for %s does not exist."
+msgstr "Thumbnail voor %s bestaat niet."
+
+#: dj-thumbnails.php:540
+msgid "Thumbnail for %s is too small."
+msgstr "Thumbnail voor %s is te klein."
+
+#: dj-thumbnails.php:552
+msgid "Update image"
+msgstr "Vervang afbeelding"
+
+#: dj-thumbnails.php:553
+msgctxt "delete thumbnail button"
+msgid "X"
+msgstr "X"
+
+#: dj-thumbnails.php:582
+msgid "Add new thumbnail"
+msgstr "Voeg nieuwe thumbnail toe"
+
+#: dj-thumbnails.php:584
+msgid "slug"
+msgstr "slug"
+
+#: dj-thumbnails.php:589 dj-thumbnails.php:590
+msgid "New thumbnail image."
+msgstr "Nieuwe thumbnail afbeelding."
+
+#: dj-thumbnails.php:593
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+#: dj-thumbnails.php:595
+msgid "Select an image for this thumbnail"
+msgstr "Selecteer een afbeelding voor deze thumbnail."
+
+#: dj-thumbnails.php:600
+msgid "Submit changes"
+msgstr "Wijzigingen opslaan"
+
+#: dj-thumbnails.php:603
+msgid "Fallback Information"
+msgstr "Terugval Informatie"
+
+#: dj-thumbnails.php:604
+msgid "Fallback tree"
+msgstr "Terugval boom"
+
+#: dj-thumbnails.php:613
+msgid "Fallback properties"
+msgstr "Terugval eigenschappen"
+
+#: dj-thumbnails.php:636
+msgctxt "thumbnail image"
+msgid "width"
+msgstr "breedte"
+
+#: dj-thumbnails.php:637
+msgctxt "thumbnail image"
+msgid "height"
+msgstr "hoogte"
+
+#: dj-thumbnails.php:638 dj-thumbnails.php:639 dj-thumbnails.php:641
+#: dj-thumbnails.php:642
+msgctxt "image size"
+msgid "pixels"
+msgstr "pixels"
+
+#: dj-thumbnails.php:643
+msgctxt "thumbnail size name on display"
+msgid "displayed:"
+msgstr "weergegeven:"
+
+#: dj-thumbnails.php:644
+msgctxt "thumbnail size name required"
+msgid "minimum size:"
+msgstr "minimum grootte:"
+
+#: dj-thumbnails.php:652
+msgctxt "title for link"
+msgid "Change display size to %s."
+msgstr "Verander weergegeven grootte naar %s."
+
+#: dj-thumbnails.php:657
+msgctxt "label for links"
+msgid "Change display size to %s."
+msgstr "Verander weergegeven grootte naar %s."
+
+#: dj-thumbnails.php:657
+msgctxt "seperator for urls, space after comma"
+msgid ", "
+msgstr ", "
+
+#. Plugin Name of the plugin/theme
+msgid "Derk-Jan's Fallback Thumbs"
+msgstr "DerkJan's Terugval Thumbnails"
+
+#. Plugin URI of the plugin/theme
+msgid "http://sg.tudelft.nl/"
+msgstr "http://sg.tudelft.nl/"
+
+#. Description of the plugin/theme
+msgid ""
+"Fallback thumbnail system to display thumbs if not available for a post."
+msgstr ""
+"Terugval thumbnail systeem om thumbnails weer te geven als ze niet "
+"beschikbaar zijn voor een bericht."
+
+#. Author of the plugin/theme
+msgid "Derk-Jan Karrenbeld"
+msgstr "Derk-Jan Karrenbeld"
+
+#. Author URI of the plugin/theme
+msgid "http://derk-jan.com"
+msgstr "http://derk-jan.com"
